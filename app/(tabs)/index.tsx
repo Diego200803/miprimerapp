@@ -18,7 +18,7 @@ export default function HomeScreen() {
       }>
       <ThemedView style={styles.titleContainer}>
       <ThemedText type="title" style={{ color: 'blue' }}>
-      Hola mundo
+      Hola mundo🔥
       </ThemedText>
         <HelloWave />
       </ThemedView>
